@@ -1,4 +1,3 @@
-# RoK_OCR_TOTALPOWER-
 # RoK_OCR_TOTALPOWER
 
 ## 概要
